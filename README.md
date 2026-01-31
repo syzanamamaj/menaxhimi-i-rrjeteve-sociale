@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/badge/Version-5.0.0-blueviolet?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Year-2026-00f2ea?style=for-the-badge" alt="Year">
     <img src="https://img.shields.io/badge/Topic-Digital%20Marketing-ff0055?style=for-the-badge" alt="Topic">
-    <img src="https://img.shields.io/github/last-commit/dritonmamaj49-beep/menaxhimi-rrjeteve-sociale-cpp?style=for-the-badge&color=success" alt="Last Commit">
+    <img src="https://img.shields.io/github/last-commit/syzanamamaj/menaxhimi-i-rrjeteve-sociale?style=for-the-badge&color=success" alt="Last Commit">
   </p>
 
   <p>
-    <a href="https://dritonmamaj49-beep.github.io/menaxhimi-rrjeteve-sociale-cpp/" target="_blank">
+    <a href="https://syzanamamaj.github.io/menaxhimi-i-rrjeteve-sociale/" target="_blank">
       <img src="https://img.shields.io/badge/DEMO-SHIKO%20FAQEN%20LIVE-ffffff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Live Demo">
     </a>
   </p>
@@ -102,4 +102,3 @@ Për të garantuar integritetin e kodit, grupi ynë ndjek **GitHub Flow** strikt
 <div align="center">
 <p>Të gjitha të drejtat e rezervuara © 2026 | Universiteti i Prishtinës</p>
 </div>
-

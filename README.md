@@ -104,9 +104,4 @@ Për të garantuar integritetin e kodit, grupi ynë ndjek **GitHub Flow** strikt
 </div>
 
 ```mermaid
-graph TD;
-    A[Main Branch] -->|Create Branch| B(Feature/Content-Expansion);
-    B -->|Update README| B;
-    B -->|Add Sections| B;
-    B -->|Pull Request| C{Code Review};
-    C -->|Approved| A;
+

@@ -103,5 +103,3 @@ Për të garantuar integritetin e kodit, grupi ynë ndjek **GitHub Flow** strikt
 <p>Të gjitha të drejtat e rezervuara © 2026 | Universiteti i Prishtinës</p>
 </div>
 
-```mermaid
-
